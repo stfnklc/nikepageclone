@@ -1,5 +1,4 @@
 import CustomerReviews from './CustomerReviews';
-import Nav from './Nav';
 import Footer from './Footer';
 import Hero from './Hero';
 import PopularProducts from './PopularProducts';
@@ -10,7 +9,6 @@ import Subscribe from './Subcribe'
 
 export{
   CustomerReviews,
-  Nav,
   Footer,
   Hero,
   PopularProducts,
